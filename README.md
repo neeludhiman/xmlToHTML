@@ -35,10 +35,15 @@ Run the binary:
 Above command creates an output file "cd_catalog.html" in the current directory.
 
 References:
+
 https://github.com/leethomason/tinyxml2
+
 https://stackoverflow.com/questions/9387610/what-xml-parser-should-i-use-in-c
+
 https://linuxhint.com/parse_xml_in_cpp/
+
 https://www.codingpanel.com/a-complete-guide-to-tinyxml-using-cpp/
+
 https://cplusplus.com/forum/general/276345/
 
 The code was built on Replit and is hosted on below link:
